@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.desiemoji.keyboard.app-mergeDebugResources-82:/values-night-v31/values-night-v31.xml",
+            "map": [
+                {
+                    "source": "G:\\Gulam\\AndroidWorkSpace\\DesiEmoji\\app\\src\\main\\res\\values-night-v31\\colors.xml",
+                    "from": {
+                        "startLines": "5,6,7,2,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "186,255,335,55,119",
+                        "endColumns": "68,79,76,63,65",
+                        "endOffsets": "250,330,407,114,180"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,124,204,281,345",
+                        "endColumns": "68,79,76,63,65",
+                        "endOffsets": "119,199,276,340,406"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\buildSrc\build\classes\kotlin\main\AdmobValue.class;G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\buildSrc\build\classes\kotlin\main\DependencyGradle.class;G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\buildSrc\build\classes\kotlin\main\ProjectSetting.class
