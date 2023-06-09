@@ -4,7 +4,7 @@
             "outputFile": "com.desiemoji.keyboard.app-mergeDebugResources-82:/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\cassrnd\\.gradle\\caches\\transforms-3\\4118704da7fba6f953f284a74d002d6a\\transformed\\appcompat-1.6.1\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\cassrnd\\.gradle\\caches\\transforms-3\\f0a476f8b097a15881bd11c8f841d366\\transformed\\appcompat-1.6.1\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

@@ -2,15 +2,6 @@ package com.desiemoji.keyboard;
 
 import java.lang.System;
 
-/**
- * Created by Faisal Amir on 24/10/22
- * -----------------------------------------
- * E-mail   : faisalamircs@gmail.com
- * Github   : github.com/amirisback
- * -----------------------------------------
- * Copyright (C) Frogobox ID / amirisback
- * All rights reserved
- */
 @kotlin.Metadata(mv = {1, 8, 0}, k = 1, d1 = {"\u0000\u001c\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0010\u0002\n\u0002\b\u0003\n\u0002\u0018\u0002\n\u0002\b\u0002\b\u0007\u0018\u0000 \t2\u00020\u0001:\u0001\tB\u0005\u00a2\u0006\u0002\u0010\u0002J\b\u0010\u0003\u001a\u00020\u0004H\u0016J\b\u0010\u0005\u001a\u00020\u0004H\u0002J\u0010\u0010\u0006\u001a\u00020\u00042\u0006\u0010\u0007\u001a\u00020\bH\u0016\u00a8\u0006\n"}, d2 = {"Lcom/desiemoji/keyboard/MainApp;", "Lcom/frogobox/sdk/FrogoKoinApplication;", "()V", "onCreate", "", "setupEmojiCompat", "setupKoinModule", "koinApplication", "Lorg/koin/core/KoinApplication;", "Companion", "desiemoji_debug"})
 @dagger.hilt.android.HiltAndroidApp()
 public final class MainApp extends com.frogobox.sdk.FrogoKoinApplication {
