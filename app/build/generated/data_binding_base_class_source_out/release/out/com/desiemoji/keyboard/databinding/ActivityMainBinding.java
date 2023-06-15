@@ -31,6 +31,9 @@ public final class ActivityMainBinding implements ViewBinding {
   public final Button btnGoToSetting;
 
   @NonNull
+  public final Button btnSettings;
+
+  @NonNull
   public final LinearLayout containerTest;
 
   @NonNull
@@ -52,7 +55,7 @@ public final class ActivityMainBinding implements ViewBinding {
   public final View viewLine2;
 
   private ActivityMainBinding(@NonNull ScrollView rootView, @NonNull Button btnChangeKeyboard,
-      @NonNull Button btnDoSomeTest, @NonNull Button btnGoToSetting,
+      @NonNull Button btnDoSomeTest, @NonNull Button btnGoToSetting, @NonNull Button btnSettings,
       @NonNull LinearLayout containerTest, @NonNull TextView paragraph1,
       @NonNull TextView paragraph2, @NonNull TextView title, @NonNull TextView titleState,
       @NonNull View viewLine, @NonNull View viewLine2) {
@@ -60,6 +63,7 @@ public final class ActivityMainBinding implements ViewBinding {
     this.btnChangeKeyboard = btnChangeKeyboard;
     this.btnDoSomeTest = btnDoSomeTest;
     this.btnGoToSetting = btnGoToSetting;
+    this.btnSettings = btnSettings;
     this.containerTest = containerTest;
     this.paragraph1 = paragraph1;
     this.paragraph2 = paragraph2;
@@ -114,6 +118,12 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.btn_settings;
+      Button btnSettings = ViewBindings.findChildViewById(rootView, id);
+      if (btnSettings == null) {
+        break missingId;
+      }
+
       id = R.id.container_test;
       LinearLayout containerTest = ViewBindings.findChildViewById(rootView, id);
       if (containerTest == null) {
@@ -157,8 +167,8 @@ public final class ActivityMainBinding implements ViewBinding {
       }
 
       return new ActivityMainBinding((ScrollView) rootView, btnChangeKeyboard, btnDoSomeTest,
-          btnGoToSetting, containerTest, paragraph1, paragraph2, title, titleState, viewLine,
-          viewLine2);
+          btnGoToSetting, btnSettings, containerTest, paragraph1, paragraph2, title, titleState,
+          viewLine, viewLine2);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

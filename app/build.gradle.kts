@@ -108,6 +108,9 @@ dependencies {
     implementation("io.coil-kt:coil-gif:1.4.0")
     implementation("io.coil-kt:coil-video:1.4.0")
     implementation ("com.beust:klaxon:5.5")
+    implementation("androidx.appcompat:appcompat:1.6.1")
+    implementation("com.google.android.material:material:1.4.0")
+    implementation("androidx.constraintlayout:constraintlayout:2.1.4")
 
     kapt(GitHub.glideCompiler)
     kapt(Google.Hilt.compiler)

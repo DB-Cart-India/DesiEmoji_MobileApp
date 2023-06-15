@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-73:12
-INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-73:12
-INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-73:12
-INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-73:12
+ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-75:12
 MERGED from [com.github.amirisback:frogo-recycler-view:4.3.4] C:\Users\cassrnd\.gradle\caches\transforms-3\5bbec54acb80d054143dd623a52cd470\transformed\frogo-recycler-view-4.3.4\AndroidManifest.xml:2:1-7:12
 MERGED from [com.github.frogobox.frogo-consume-api:frogoconsumeapi:2.4.5] C:\Users\cassrnd\.gradle\caches\transforms-3\fc9acf7901f53b7a15d3998549dbefe5\transformed\frogoconsumeapi-2.4.5\AndroidManifest.xml:2:1-10:12
 MERGED from [com.github.frogobox.frogo-sdk:frogosdk:2.1.6] C:\Users\cassrnd\.gradle\caches\transforms-3\f46ee93141cc3ef5a14633466f1d30d1\transformed\frogosdk-2.1.6\AndroidManifest.xml:2:1-27:12
@@ -34,8 +34,8 @@ MERGED from [androidx.fragment:fragment-ktx:1.5.6] C:\Users\cassrnd\.gradle\cach
 MERGED from [com.google.dagger:hilt-android:2.45] C:\Users\cassrnd\.gradle\caches\transforms-3\fac23294947354937ee2740bd5876cb6\transformed\hilt-android-2.45\AndroidManifest.xml:16:1-19:12
 MERGED from [com.mikepenz:fastadapter:5.7.0] C:\Users\cassrnd\.gradle\caches\transforms-3\aa8f6fa50feed9c0935b8a26eea47794\transformed\fastadapter-5.7.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.9.0-beta01] C:\Users\cassrnd\.gradle\caches\transforms-3\50c90eaa97281a010e9d56167a212b3b\transformed\material-1.9.0-beta01\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\cassrnd\.gradle\caches\transforms-3\1ae90ba31e4f77ad9265298c8c04f593\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\cassrnd\.gradle\caches\transforms-3\d1e552cfb3a4ba13d05f9cdeb09b18b8\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\cassrnd\.gradle\caches\transforms-3\1ae90ba31e4f77ad9265298c8c04f593\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [cat.ereza:customactivityoncrash:2.4.0] C:\Users\cassrnd\.gradle\caches\transforms-3\eeae3724a44d9f170d00eef0df7ba6b6\transformed\customactivityoncrash-2.4.0\AndroidManifest.xml:2:1-21:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\cassrnd\.gradle\caches\transforms-3\f0a476f8b097a15881bd11c8f841d366\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\cac4059adf7b5e0f8d91954aac2deb48\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -61,12 +61,12 @@ MERGED from [androidx.compose.ui:ui:1.4.0] C:\Users\cassrnd\.gradle\caches\trans
 MERGED from [androidx.compose.ui:ui-tooling:1.4.0] C:\Users\cassrnd\.gradle\caches\transforms-3\6704e4ead2b8baea6ecb74d1460a2e8f\transformed\ui-tooling-1.4.0\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.activity:activity-compose:1.7.0] C:\Users\cassrnd\.gradle\caches\transforms-3\84b3253772950ecb12af3954d31ff7d0\transformed\activity-compose-1.7.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity-ktx:1.7.0] C:\Users\cassrnd\.gradle\caches\transforms-3\af92eb0a40b8dfd81298c873330e157f\transformed\activity-ktx-1.7.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.paging:paging-runtime-ktx:2.1.2] C:\Users\cassrnd\.gradle\caches\transforms-3\df92185369614f8d967db4936b852aec\transformed\paging-runtime-ktx-2.1.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.paging:paging-runtime:2.1.2] C:\Users\cassrnd\.gradle\caches\transforms-3\672117e9c35fc79c2eb6aaa1775c0d05\transformed\paging-runtime-2.1.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\cassrnd\.gradle\caches\transforms-3\365ce3f2f58f5dcbd53865fdc37cdb56\transformed\work-runtime-2.8.1\AndroidManifest.xml:17:1-145:12
 MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\cassrnd\.gradle\caches\transforms-3\1d636e2d3e86d774583767a107b29cc5\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.emoji2:emoji2-bundled:1.3.0] C:\Users\cassrnd\.gradle\caches\transforms-3\ec8c06043f9172e13e0d317bee2a583d\transformed\emoji2-bundled-1.3.0\AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\cassrnd\.gradle\caches\transforms-3\2a65284ab4dc5082457d8a99bf5c52a3\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.2] C:\Users\cassrnd\.gradle\caches\transforms-3\df92185369614f8d967db4936b852aec\transformed\paging-runtime-ktx-2.1.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.paging:paging-runtime:2.1.2] C:\Users\cassrnd\.gradle\caches\transforms-3\672117e9c35fc79c2eb6aaa1775c0d05\transformed\paging-runtime-2.1.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\cassrnd\.gradle\caches\transforms-3\b39f29269e218172b6569910bf036289\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\cassrnd\.gradle\caches\transforms-3\d8503d614dfa74d1a02b84626512039a\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\cassrnd\.gradle\caches\transforms-3\fb9476ed131bf1be075c8ecf37601284\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
@@ -105,16 +105,16 @@ MERGED from [androidx.compose.runtime:runtime:1.4.0] C:\Users\cassrnd\.gradle\ca
 MERGED from [com.github.frogobox.frogo-sdk:frogolog:2.1.6] C:\Users\cassrnd\.gradle\caches\transforms-3\e520435c47c6fd45c16e1de93eacf915\transformed\frogolog-2.1.6\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.room:room-rxjava3:2.5.1] C:\Users\cassrnd\.gradle\caches\transforms-3\46d3dcebd5b63d8b76fd810a78105064\transformed\room-rxjava3-2.5.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.room:room-runtime:2.5.1] C:\Users\cassrnd\.gradle\caches\transforms-3\2085e1c8c0141ae5ef6b879154a37534\transformed\room-runtime-2.5.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\cc783162eb17d3ebae57f9d3111385bf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\cassrnd\.gradle\caches\transforms-3\82482426b3a2966934ad0c11efe929d1\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\4d8f72dc7ed7c4b2de58633c851e7cc0\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\cassrnd\.gradle\caches\transforms-3\17595065cd7b5b05b6b8b953ce238638\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\cassrnd\.gradle\caches\transforms-3\0fe9c33fc68b92c55e4b8560052c869f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\e7dc15cee83f1beb055773d01ffd20e9\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\cassrnd\.gradle\caches\transforms-3\82482426b3a2966934ad0c11efe929d1\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\4d8f72dc7ed7c4b2de58633c851e7cc0\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\cc783162eb17d3ebae57f9d3111385bf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\cassrnd\.gradle\caches\transforms-3\d9615c04578cab2d93222447806d8ee4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\cassrnd\.gradle\caches\transforms-3\30e833c8cac5204e9d2945bc1b25cdd0\transformed\sqlite-framework-2.3.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\cassrnd\.gradle\caches\transforms-3\a5d6c2603822645546a708dc03da1c02\transformed\sqlite-2.3.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\3f24f44c54aaad41b25e63cbc69572c3\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\cassrnd\.gradle\caches\transforms-3\d9615c04578cab2d93222447806d8ee4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\cassrnd\.gradle\caches\transforms-3\6b39ef8d9ff78fc1cae6b184c7bcfe3a\transformed\gifdecoder-4.15.1\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\cassrnd\.gradle\caches\transforms-3\2eae30c3e507088ea4946195a8e9de7a\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\0b1a88f7cc1f9e58907c89161b247789\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -124,22 +124,22 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\cassrnd
 MERGED from [com.google.dagger:dagger-lint-aar:2.45] C:\Users\cassrnd\.gradle\caches\transforms-3\b73744b66808ecdf35b969d612d06dc0\transformed\dagger-lint-aar-2.45\AndroidManifest.xml:16:1-19:12
 MERGED from [io.reactivex.rxjava3:rxandroid:3.0.2] C:\Users\cassrnd\.gradle\caches\transforms-3\3148253bdeb3af702b8de0a815888722\transformed\rxandroid-3.0.2\AndroidManifest.xml:15:1-20:12
 MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\cassrnd\.gradle\caches\transforms-3\6cc2bd288cc90ce0d8e9681edd563953\transformed\circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
-INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-73:12
-INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-73:12
-INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-75:12
 	package
 		INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-73:12
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-75:12
 		INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-73:12
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-75:12
 		INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-73:12
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:1-75:12
 		INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:2:11-69
@@ -156,7 +156,7 @@ MERGED from [com.github.frogobox.frogo-sdk:frogosdk:2.1.6] C:\Users\cassrnd\.gra
 	android:name
 		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:6:22-64
 application
-ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:8:5-71:19
+ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:8:5-73:19
 MERGED from [com.github.frogobox.frogo-sdk:frogosdk:2.1.6] C:\Users\cassrnd\.gradle\caches\transforms-3\f46ee93141cc3ef5a14633466f1d30d1\transformed\frogosdk-2.1.6\AndroidManifest.xml:10:5-25:19
 MERGED from [com.github.frogobox.frogo-sdk:frogosdk:2.1.6] C:\Users\cassrnd\.gradle\caches\transforms-3\f46ee93141cc3ef5a14633466f1d30d1\transformed\frogosdk-2.1.6\AndroidManifest.xml:10:5-25:19
 MERGED from [com.github.chuckerteam.chucker:library:3.5.2] C:\Users\cassrnd\.gradle\caches\transforms-3\c81094601c09593f7dc841f95f261f22\transformed\library-3.5.2\AndroidManifest.xml:15:5-44:19
@@ -214,7 +214,7 @@ MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\cassrnd\.gradle\caches
 	android:roundIcon
 		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:16:9-48
 	tools:targetApi
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:20:9-35
 	android:icon
 		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:14:9-43
 	android:allowBackup
@@ -226,87 +226,99 @@ MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\cassrnd\.gradle\caches
 	android:dataExtractionRules
 		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:11:9-65
 	android:usesCleartextTraffic
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:20:9-44
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:19:9-44
 	android:name
 		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:9:9-32
+activity#com.desiemoji.keyboard.ui.main.SettingsActivity
+ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:exported
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:22:13-53
+meta-data#android.app.lib_name
+ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:24:13-26:36
+	android:value
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:26:17-33
+	android:name
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:25:17-52
 activity#com.desiemoji.keyboard.ui.detail.DetailActivity
-ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:22:9-24:40
+ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:28:9-30:40
 	android:exported
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:24:13-37
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:23:13-53
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:29:13-53
 activity#com.desiemoji.keyboard.ui.autotext.AutoTextActivity
-ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:26:9-28:40
+ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:31:9-33:40
 	android:exported
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:28:13-37
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:27:13-57
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:32:13-57
 activity#com.desiemoji.keyboard.ui.autotext.AutoTextEditorActivity
-ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:30:9-32:40
-	android:exported
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:32:13-37
-	android:name
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:31:13-63
-activity#com.desiemoji.keyboard.ui.autotext.AutoTextDetailActivity
 ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:34:9-36:40
 	android:exported
 		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:36:13-37
 	android:name
 		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:35:13-63
+activity#com.desiemoji.keyboard.ui.autotext.AutoTextDetailActivity
+ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:37:9-39:40
+	android:exported
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:38:13-63
 activity#com.desiemoji.keyboard.ui.main.MainActivity
-ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:38:9-46:20
+ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:40:9-48:20
 	android:exported
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:40:13-36
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:42:13-36
 	android:name
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:39:13-49
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:41:13-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:41:13-45:29
+ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:43:13-47:29
 action#android.intent.action.MAIN
-ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:42:17-69
+ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:44:17-69
 	android:name
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:42:25-66
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:44:25-66
 category#android.intent.category.LAUNCHER
-ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:44:17-77
+ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:46:17-77
 	android:name
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:44:27-74
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:46:27-74
 service#com.desiemoji.keyboard.services.KeyboardIME
-ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:48:9-59:19
+ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:50:9-62:19
 	android:label
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:51:13-45
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:53:13-45
 	android:exported
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:50:13-36
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:52:13-36
 	android:permission
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:52:13-70
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:54:13-70
 	android:name
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:49:13-49
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:51:13-49
 meta-data#android.view.im
-ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:53:13-55:55
+ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:55:13-57:55
 	android:resource
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:55:17-52
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:57:17-52
 	android:name
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:54:17-47
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:56:17-47
 intent-filter#action:name:android.view.InputMethod
-ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:56:13-58:29
+ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:59:13-61:29
 action#android.view.InputMethod
-ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:57:17-67
+ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:60:17-67
 	android:name
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:57:25-64
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:60:25-64
 provider#androidx.core.content.FileProvider
-ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:61:9-69:20
+ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:64:9-72:20
 	android:grantUriPermissions
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:65:13-47
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:68:13-47
 	android:authorities
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:63:13-70
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:66:13-70
 	android:exported
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:64:13-37
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:67:13-37
 	android:name
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:62:13-62
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:65:13-62
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:66:13-68:54
+ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:69:13-71:54
 	android:resource
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:68:17-51
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:71:17-51
 	android:name
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:67:17-67
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:70:17-67
 uses-sdk
 INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml
@@ -371,10 +383,10 @@ MERGED from [com.mikepenz:fastadapter:5.7.0] C:\Users\cassrnd\.gradle\caches\tra
 MERGED from [com.mikepenz:fastadapter:5.7.0] C:\Users\cassrnd\.gradle\caches\transforms-3\aa8f6fa50feed9c0935b8a26eea47794\transformed\fastadapter-5.7.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.9.0-beta01] C:\Users\cassrnd\.gradle\caches\transforms-3\50c90eaa97281a010e9d56167a212b3b\transformed\material-1.9.0-beta01\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.9.0-beta01] C:\Users\cassrnd\.gradle\caches\transforms-3\50c90eaa97281a010e9d56167a212b3b\transformed\material-1.9.0-beta01\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\cassrnd\.gradle\caches\transforms-3\1ae90ba31e4f77ad9265298c8c04f593\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\cassrnd\.gradle\caches\transforms-3\1ae90ba31e4f77ad9265298c8c04f593\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\cassrnd\.gradle\caches\transforms-3\d1e552cfb3a4ba13d05f9cdeb09b18b8\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\cassrnd\.gradle\caches\transforms-3\d1e552cfb3a4ba13d05f9cdeb09b18b8\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\cassrnd\.gradle\caches\transforms-3\1ae90ba31e4f77ad9265298c8c04f593\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\cassrnd\.gradle\caches\transforms-3\1ae90ba31e4f77ad9265298c8c04f593\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
 MERGED from [cat.ereza:customactivityoncrash:2.4.0] C:\Users\cassrnd\.gradle\caches\transforms-3\eeae3724a44d9f170d00eef0df7ba6b6\transformed\customactivityoncrash-2.4.0\AndroidManifest.xml:5:5-7:41
 MERGED from [cat.ereza:customactivityoncrash:2.4.0] C:\Users\cassrnd\.gradle\caches\transforms-3\eeae3724a44d9f170d00eef0df7ba6b6\transformed\customactivityoncrash-2.4.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\cassrnd\.gradle\caches\transforms-3\f0a476f8b097a15881bd11c8f841d366\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
@@ -425,10 +437,6 @@ MERGED from [androidx.activity:activity-compose:1.7.0] C:\Users\cassrnd\.gradle\
 MERGED from [androidx.activity:activity-compose:1.7.0] C:\Users\cassrnd\.gradle\caches\transforms-3\84b3253772950ecb12af3954d31ff7d0\transformed\activity-compose-1.7.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity-ktx:1.7.0] C:\Users\cassrnd\.gradle\caches\transforms-3\af92eb0a40b8dfd81298c873330e157f\transformed\activity-ktx-1.7.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity-ktx:1.7.0] C:\Users\cassrnd\.gradle\caches\transforms-3\af92eb0a40b8dfd81298c873330e157f\transformed\activity-ktx-1.7.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.paging:paging-runtime-ktx:2.1.2] C:\Users\cassrnd\.gradle\caches\transforms-3\df92185369614f8d967db4936b852aec\transformed\paging-runtime-ktx-2.1.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.paging:paging-runtime-ktx:2.1.2] C:\Users\cassrnd\.gradle\caches\transforms-3\df92185369614f8d967db4936b852aec\transformed\paging-runtime-ktx-2.1.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.paging:paging-runtime:2.1.2] C:\Users\cassrnd\.gradle\caches\transforms-3\672117e9c35fc79c2eb6aaa1775c0d05\transformed\paging-runtime-2.1.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.paging:paging-runtime:2.1.2] C:\Users\cassrnd\.gradle\caches\transforms-3\672117e9c35fc79c2eb6aaa1775c0d05\transformed\paging-runtime-2.1.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\cassrnd\.gradle\caches\transforms-3\365ce3f2f58f5dcbd53865fdc37cdb56\transformed\work-runtime-2.8.1\AndroidManifest.xml:21:5-44
 MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\cassrnd\.gradle\caches\transforms-3\365ce3f2f58f5dcbd53865fdc37cdb56\transformed\work-runtime-2.8.1\AndroidManifest.xml:21:5-44
 MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\cassrnd\.gradle\caches\transforms-3\1d636e2d3e86d774583767a107b29cc5\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
@@ -437,6 +445,10 @@ MERGED from [androidx.emoji2:emoji2-bundled:1.3.0] C:\Users\cassrnd\.gradle\cach
 MERGED from [androidx.emoji2:emoji2-bundled:1.3.0] C:\Users\cassrnd\.gradle\caches\transforms-3\ec8c06043f9172e13e0d317bee2a583d\transformed\emoji2-bundled-1.3.0\AndroidManifest.xml:21:5-44
 MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\cassrnd\.gradle\caches\transforms-3\2a65284ab4dc5082457d8a99bf5c52a3\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
 MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\cassrnd\.gradle\caches\transforms-3\2a65284ab4dc5082457d8a99bf5c52a3\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.2] C:\Users\cassrnd\.gradle\caches\transforms-3\df92185369614f8d967db4936b852aec\transformed\paging-runtime-ktx-2.1.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.2] C:\Users\cassrnd\.gradle\caches\transforms-3\df92185369614f8d967db4936b852aec\transformed\paging-runtime-ktx-2.1.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.1.2] C:\Users\cassrnd\.gradle\caches\transforms-3\672117e9c35fc79c2eb6aaa1775c0d05\transformed\paging-runtime-2.1.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.1.2] C:\Users\cassrnd\.gradle\caches\transforms-3\672117e9c35fc79c2eb6aaa1775c0d05\transformed\paging-runtime-2.1.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\cassrnd\.gradle\caches\transforms-3\b39f29269e218172b6569910bf036289\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\cassrnd\.gradle\caches\transforms-3\b39f29269e218172b6569910bf036289\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\cassrnd\.gradle\caches\transforms-3\d8503d614dfa74d1a02b84626512039a\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
@@ -513,26 +525,26 @@ MERGED from [androidx.room:room-rxjava3:2.5.1] C:\Users\cassrnd\.gradle\caches\t
 MERGED from [androidx.room:room-rxjava3:2.5.1] C:\Users\cassrnd\.gradle\caches\transforms-3\46d3dcebd5b63d8b76fd810a78105064\transformed\room-rxjava3-2.5.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.room:room-runtime:2.5.1] C:\Users\cassrnd\.gradle\caches\transforms-3\2085e1c8c0141ae5ef6b879154a37534\transformed\room-runtime-2.5.1\AndroidManifest.xml:21:5-44
 MERGED from [androidx.room:room-runtime:2.5.1] C:\Users\cassrnd\.gradle\caches\transforms-3\2085e1c8c0141ae5ef6b879154a37534\transformed\room-runtime-2.5.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\cc783162eb17d3ebae57f9d3111385bf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\cc783162eb17d3ebae57f9d3111385bf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\cassrnd\.gradle\caches\transforms-3\82482426b3a2966934ad0c11efe929d1\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\cassrnd\.gradle\caches\transforms-3\82482426b3a2966934ad0c11efe929d1\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\4d8f72dc7ed7c4b2de58633c851e7cc0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\4d8f72dc7ed7c4b2de58633c851e7cc0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\cassrnd\.gradle\caches\transforms-3\17595065cd7b5b05b6b8b953ce238638\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\cassrnd\.gradle\caches\transforms-3\17595065cd7b5b05b6b8b953ce238638\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\cassrnd\.gradle\caches\transforms-3\0fe9c33fc68b92c55e4b8560052c869f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\cassrnd\.gradle\caches\transforms-3\0fe9c33fc68b92c55e4b8560052c869f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\e7dc15cee83f1beb055773d01ffd20e9\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\e7dc15cee83f1beb055773d01ffd20e9\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\cassrnd\.gradle\caches\transforms-3\82482426b3a2966934ad0c11efe929d1\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\cassrnd\.gradle\caches\transforms-3\82482426b3a2966934ad0c11efe929d1\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\4d8f72dc7ed7c4b2de58633c851e7cc0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\4d8f72dc7ed7c4b2de58633c851e7cc0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\cc783162eb17d3ebae57f9d3111385bf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\cc783162eb17d3ebae57f9d3111385bf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\cassrnd\.gradle\caches\transforms-3\d9615c04578cab2d93222447806d8ee4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\cassrnd\.gradle\caches\transforms-3\d9615c04578cab2d93222447806d8ee4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\cassrnd\.gradle\caches\transforms-3\30e833c8cac5204e9d2945bc1b25cdd0\transformed\sqlite-framework-2.3.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\cassrnd\.gradle\caches\transforms-3\30e833c8cac5204e9d2945bc1b25cdd0\transformed\sqlite-framework-2.3.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\cassrnd\.gradle\caches\transforms-3\a5d6c2603822645546a708dc03da1c02\transformed\sqlite-2.3.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\cassrnd\.gradle\caches\transforms-3\a5d6c2603822645546a708dc03da1c02\transformed\sqlite-2.3.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\3f24f44c54aaad41b25e63cbc69572c3\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\cassrnd\.gradle\caches\transforms-3\3f24f44c54aaad41b25e63cbc69572c3\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\cassrnd\.gradle\caches\transforms-3\d9615c04578cab2d93222447806d8ee4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\cassrnd\.gradle\caches\transforms-3\d9615c04578cab2d93222447806d8ee4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\cassrnd\.gradle\caches\transforms-3\6b39ef8d9ff78fc1cae6b184c7bcfe3a\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\cassrnd\.gradle\caches\transforms-3\6b39ef8d9ff78fc1cae6b184c7bcfe3a\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\cassrnd\.gradle\caches\transforms-3\2eae30c3e507088ea4946195a8e9de7a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
@@ -575,12 +587,6 @@ ADDED from [com.github.frogobox.frogo-sdk:frogosdk:2.1.6] C:\Users\cassrnd\.grad
 		ADDED from [com.github.frogobox.frogo-sdk:frogosdk:2.1.6] C:\Users\cassrnd\.gradle\caches\transforms-3\f46ee93141cc3ef5a14633466f1d30d1\transformed\frogosdk-2.1.6\AndroidManifest.xml:13:13-37
 	android:name
 		ADDED from [com.github.frogobox.frogo-sdk:frogosdk:2.1.6] C:\Users\cassrnd\.gradle\caches\transforms-3\f46ee93141cc3ef5a14633466f1d30d1\transformed\frogosdk-2.1.6\AndroidManifest.xml:12:13-68
-meta-data#android.app.lib_name
-ADDED from [com.github.frogobox.frogo-sdk:frogosdk:2.1.6] C:\Users\cassrnd\.gradle\caches\transforms-3\f46ee93141cc3ef5a14633466f1d30d1\transformed\frogosdk-2.1.6\AndroidManifest.xml:14:13-16:36
-	android:value
-		ADDED from [com.github.frogobox.frogo-sdk:frogosdk:2.1.6] C:\Users\cassrnd\.gradle\caches\transforms-3\f46ee93141cc3ef5a14633466f1d30d1\transformed\frogosdk-2.1.6\AndroidManifest.xml:16:17-33
-	android:name
-		ADDED from [com.github.frogobox.frogo-sdk:frogosdk:2.1.6] C:\Users\cassrnd\.gradle\caches\transforms-3\f46ee93141cc3ef5a14633466f1d30d1\transformed\frogosdk-2.1.6\AndroidManifest.xml:15:17-52
 activity#com.frogobox.sdk.ui.FrogoCustomCrashActivity
 ADDED from [com.github.frogobox.frogo-sdk:frogosdk:2.1.6] C:\Users\cassrnd\.gradle\caches\transforms-3\f46ee93141cc3ef5a14633466f1d30d1\transformed\frogosdk-2.1.6\AndroidManifest.xml:18:9-21:68
 	android:exported

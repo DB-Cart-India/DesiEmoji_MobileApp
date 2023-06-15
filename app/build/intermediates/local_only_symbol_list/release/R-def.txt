@@ -124,6 +124,7 @@ id btn_do_some_test
 id btn_edit
 id btn_go_to_setting
 id btn_save
+id btn_settings
 id btn_submit
 id button_background_shape
 id button_background_stroke
@@ -173,6 +174,7 @@ id rv
 id rv_autotext
 id rv_form
 id rv_keyboard_main
+id simpleSwitch
 id space_normal
 id space_pressed
 id title
@@ -196,6 +198,7 @@ layout activity_autotext_detail
 layout activity_autotext_editor
 layout activity_detail
 layout activity_main
+layout activity_settings
 layout fragment_main
 layout item_autotext
 layout item_category_tab_icon

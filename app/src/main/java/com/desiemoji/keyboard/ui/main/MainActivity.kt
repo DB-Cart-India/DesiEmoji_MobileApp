@@ -168,6 +168,12 @@ class MainActivity : BaseMainActivity<ActivityMainBinding>() {
                 startActivityExt<DetailActivity>()
             }
 
+            btnSettings.setOnClickListener {
+                startActivityExt<SettingsActivity>()
+            }
+
+
+
 //            btnAutoText.setOnClickListener {
 //                startActivityExt<AutoTextActivity>()
 //            }

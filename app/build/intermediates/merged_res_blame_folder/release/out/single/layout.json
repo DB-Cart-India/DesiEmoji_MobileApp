@@ -1,118 +1,118 @@
 [
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\activity_autotext_detail.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\activity_autotext_detail.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/keyboard_multi_form.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/keyboard_multi_form.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\keyboard_autotext.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\keyboard_autotext.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/activity_autotext.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/activity_autotext.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\item_keyboard_main.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\item_keyboard_main.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/fragment_main.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/fragment_main.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\item_keyboard_custom_emoji.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\item_keyboard_custom_emoji.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/item_keyboard_emoji.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/item_keyboard_emoji.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\keyboard_form.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\keyboard_form.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/layout_popup_spinner.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/layout_popup_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\keyboard_main_mini.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\keyboard_main_mini.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/item_keyboard_header.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/item_keyboard_header.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\item_keyboard_autotext.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\item_keyboard_autotext.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/keyboard_main_header.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/keyboard_main_header.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\fragment_main.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\fragment_main.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/item_keyboard_autotext.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/item_keyboard_autotext.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\keyboard_grid.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\keyboard_grid.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/keyboard_form.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/keyboard_form.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\activity_autotext.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\activity_autotext.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/keyboard_list.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/keyboard_list.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\activity_main.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/item_keyboard_main.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/item_keyboard_main.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\item_keyboard_category_recyclerview.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\item_keyboard_category_recyclerview.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/keyboard_ime.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/keyboard_ime.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\keyboard_webview.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\keyboard_webview.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/item_autotext.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/item_autotext.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\item_category_tab_icon.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\item_category_tab_icon.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/activity_settings.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/activity_settings.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\activity_autotext_editor.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\activity_autotext_editor.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/item_spinner.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/item_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\activity_detail.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\activity_detail.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/keyboard_grid.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/keyboard_grid.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\keyboard_ime.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\keyboard_ime.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/item_keyboard_custom_emoji.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/item_keyboard_custom_emoji.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\item_keyboard_multi_form.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\item_keyboard_multi_form.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/activity_autotext_editor.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/activity_autotext_editor.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\item_keyboard_emoji.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\item_keyboard_emoji.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/keyboard_autotext.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/keyboard_autotext.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\item_keyboard_header.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\item_keyboard_header.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/keyboard_main_mini.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/keyboard_main_mini.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\keyboard_main_header.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\keyboard_main_header.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/item_keyboard_category_recyclerview.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/item_keyboard_category_recyclerview.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\layout_popup_spinner.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\layout_popup_spinner.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/item_keyboard_news.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/item_keyboard_news.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\item_spinner.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\item_spinner.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/keyboard_webview.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/keyboard_webview.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\keyboard_list.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\keyboard_list.xml"
-    },
-    {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\item_keyboard_news.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\item_keyboard_news.xml"
-    },
-    {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\keyboard_multi_form.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\keyboard_multi_form.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/item_keyboard_multi_form.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/item_keyboard_multi_form.xml"
     },
     {
         "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/keyboard_emoji.xml",
         "source": "com.desiemoji.keyboard.app-main-85:/layout/keyboard_emoji.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\item_autotext.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\item_autotext.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/activity_autotext_detail.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/activity_autotext_detail.xml"
     },
     {
-        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-mergeReleaseResources-83:\\layout\\keyboard_emoji.xml",
-        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-85:\\layout\\keyboard_emoji.xml"
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/activity_main.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/activity_detail.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.desiemoji.keyboard.app-mergeReleaseResources-83:/layout/item_category_tab_icon.xml",
+        "source": "com.desiemoji.keyboard.app-main-85:/layout/item_category_tab_icon.xml"
     }
 ]

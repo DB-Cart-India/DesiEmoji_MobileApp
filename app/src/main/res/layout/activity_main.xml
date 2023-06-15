@@ -132,6 +132,16 @@
                 android:padding="@dimen/frogo_dimen_16dp"
                 android:elevation="10dp"/>
 
+            <Button
+                android:id="@+id/btn_settings"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Settings"
+                android:backgroundTint="@color/black"
+                android:layout_marginTop="@dimen/frogo_dimen_8dp"
+                android:padding="@dimen/frogo_dimen_16dp"
+                android:elevation="10dp"/>
+
 <!--            <Button-->
 <!--                android:id="@+id/btn_auto_text"-->
 <!--                android:layout_width="match_parent"-->

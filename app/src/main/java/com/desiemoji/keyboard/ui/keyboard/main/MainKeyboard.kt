@@ -30,6 +30,7 @@ import com.desiemoji.keyboard.ui.keyboard.main.ItemMainKeyboard.Companion.MAX_KE
 import com.desiemoji.keyboard.ui.keyboard.main.ItemMainKeyboard.Companion.SHIFT_OFF
 import com.desiemoji.keyboard.ui.keyboard.main.ItemMainKeyboard.Companion.SHIFT_ON_ONE_CHAR
 import com.desiemoji.keyboard.ui.keyboard.main.ItemMainKeyboard.Companion.SHIFT_ON_PERMANENT
+import com.desiemoji.keyboard.util.Constant
 import java.util.*
 
 @SuppressLint("UseCompatLoadingForDrawables", "ClickableViewAccessibility")
@@ -266,7 +267,9 @@ class MainKeyboard @JvmOverloads constructor(
     }
 
     fun vibrateIfNeeded() {
-        if (ItemMainKeyboard.VIBRATE_ON_KEYPRESS) {
+        val sharedPreference = context.getSharedPreferences(Constant.PREF_NAME, Context.MODE_PRIVATE)
+        val isVibrate=sharedPreference.getBoolean(Constant.PREF_VIBRATE,false)
+        if (isVibrate) {
             performHapticFeedback(HapticFeedbackConstants.VIRTUAL_KEY, HapticFeedbackConstants.FLAG_IGNORE_GLOBAL_SETTING)
         }
     }

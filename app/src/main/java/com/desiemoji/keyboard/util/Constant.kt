@@ -12,6 +12,7 @@ object Constant {
     const val DATE_TIME_FORMAT_SERVER="yyyy-MM-dd HH:mm:ss"
     const val PREF_NAME="desi_pref"
     const val PREF_LASTSYNC_TIME="last_sync_time"
+    const val PREF_VIBRATE="vibrate"
 
     const val FILE_PATH_STICKER = "stickers"
     const val FILE_PATH_CATEGORY = "category"

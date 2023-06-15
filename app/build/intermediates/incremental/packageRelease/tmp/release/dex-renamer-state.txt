@@ -1,9 +1,9 @@
-#Tue Jun 06 16:59:49 SAMT 2023
-base.2=G\:\\Gulam\\AndroidWorkSpace\\DesiEmoji\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes3.dex
+#Wed Jun 14 10:03:44 SAMT 2023
+base.2=G\:\\Gulam\\AndroidWorkSpace\\DesiEmojiNew\\DesiEmoji\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes3.dex
 path.2=classes3.dex
-base.1=G\:\\Gulam\\AndroidWorkSpace\\DesiEmoji\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+base.1=G\:\\Gulam\\AndroidWorkSpace\\DesiEmojiNew\\DesiEmoji\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
 path.1=classes2.dex
-base.0=G\:\\Gulam\\AndroidWorkSpace\\DesiEmoji\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+base.0=G\:\\Gulam\\AndroidWorkSpace\\DesiEmojiNew\\DesiEmoji\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex

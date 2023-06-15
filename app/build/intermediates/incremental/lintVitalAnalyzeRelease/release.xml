@@ -8,7 +8,7 @@
     proguardFiles="build\intermediates\default_proguard_files\global\proguard-android.txt-7.3.1"
     resourceConfigurations="en,id"
     partialResultsDir="build\intermediates\lint_vital_partial_results\release\out"
-    desugaredMethodsFiles="C:\Users\cassrnd\.gradle\caches\transforms-3\0d05727db724aa21accab53efd96c5dc\transformed\D8BackportedDesugaredMethods.txt">
+    desugaredMethodsFiles="C:\Users\cassrnd\.gradle\caches\transforms-3\769c6806e5ae873e8c5df6e248cac663\transformed\D8BackportedDesugaredMethods.txt">
   <buildFeatures
       viewBinding="true"
       namespacing="REQUIRED"/>

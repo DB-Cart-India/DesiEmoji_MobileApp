@@ -4,7 +4,7 @@
             "outputFile": "com.desiemoji.keyboard.app-mergeReleaseResources-82:/values-night-v31/values-night-v31.xml",
             "map": [
                 {
-                    "source": "G:\\Gulam\\AndroidWorkSpace\\DesiEmoji\\app\\src\\main\\res\\values-night-v31\\colors.xml",
+                    "source": "G:\\Gulam\\AndroidWorkSpace\\DesiEmojiNew\\DesiEmoji\\app\\src\\main\\res\\values-night-v31\\colors.xml",
                     "from": {
                         "startLines": "5,6,7,2,3",
                         "startColumns": "4,4,4,4,4",

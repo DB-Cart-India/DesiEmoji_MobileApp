@@ -48,6 +48,10 @@
         "source": "com.desiemoji.keyboard.app-main-86:/layout/item_keyboard_news.xml"
     },
     {
+        "merged": "com.desiemoji.keyboard.app-mergeDebugResources-83:/layout/activity_settings.xml",
+        "source": "com.desiemoji.keyboard.app-main-86:/layout/activity_settings.xml"
+    },
+    {
         "merged": "com.desiemoji.keyboard.app-mergeDebugResources-83:/layout/item_keyboard_main.xml",
         "source": "com.desiemoji.keyboard.app-main-86:/layout/item_keyboard_main.xml"
     },

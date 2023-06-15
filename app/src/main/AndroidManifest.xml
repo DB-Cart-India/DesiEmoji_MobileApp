@@ -16,25 +16,27 @@
         android:roundIcon="@mipmap/ic_launcher"
         android:supportsRtl="true"
         android:theme="@style/Theme.Research"
-        tools:targetApi="tiramisu"
-        android:usesCleartextTraffic="true">
-
+        android:usesCleartextTraffic="true"
+        tools:targetApi="tiramisu">
+        <activity
+            android:name=".ui.main.SettingsActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
         <activity
             android:name=".ui.detail.DetailActivity"
             android:exported="false" />
-
         <activity
             android:name=".ui.autotext.AutoTextActivity"
             android:exported="false" />
-
         <activity
             android:name=".ui.autotext.AutoTextEditorActivity"
             android:exported="false" />
-
         <activity
             android:name=".ui.autotext.AutoTextDetailActivity"
             android:exported="false" />
-
         <activity
             android:name=".ui.main.MainActivity"
             android:exported="true">
@@ -53,6 +55,7 @@
             <meta-data
                 android:name="android.view.im"
                 android:resource="@xml/keys_config" />
+
             <intent-filter>
                 <action android:name="android.view.InputMethod" />
             </intent-filter>
@@ -67,7 +70,6 @@
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/file_paths" />
         </provider>
-
     </application>
 
 </manifest>

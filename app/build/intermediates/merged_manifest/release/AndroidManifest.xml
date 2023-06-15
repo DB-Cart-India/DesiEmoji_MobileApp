@@ -45,6 +45,13 @@
         android:theme="@style/Theme.Research"
         android:usesCleartextTraffic="true" >
         <activity
+            android:name="com.desiemoji.keyboard.ui.main.SettingsActivity"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name="com.desiemoji.keyboard.ui.detail.DetailActivity"
             android:exported="false" />
         <activity

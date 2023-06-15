@@ -78,7 +78,7 @@ public final class ItemMainKeyboard {
     public static final int KEYCODE_DELETE = -5;
     public static final int KEYCODE_SPACE = 32;
     public static final int KEYCODE_EMOJI = -6;
-    public static final boolean VIBRATE_ON_KEYPRESS = true;
+    public static final boolean VIBRATE_ON_KEYPRESS = false;
     public static final boolean SHOW_POPUP_ON_KEYPRESS = true;
     public static final int SHIFT_OFF = 0;
     public static final int SHIFT_ON_ONE_CHAR = 1;

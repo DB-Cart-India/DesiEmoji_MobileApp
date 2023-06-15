@@ -24,6 +24,10 @@
         "source": "com.desiemoji.keyboard.app-main-86:/mipmap-hdpi/ic_launcher.webp"
     },
     {
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_activity_settings.xml.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/layout/activity_settings.xml"
+    },
+    {
         "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_enter.xml.flat",
         "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_enter.xml"
     },

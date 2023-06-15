@@ -3744,6 +3744,7 @@ int id btn_do_some_test 0x7f08006f
 int id btn_edit 0x7f080070
 int id btn_go_to_setting 0x7f080071
 int id btn_save 0x7f080072
+int id btn_settings 0x7f080306
 int id btn_submit 0x7f080073
 int id buttonPanel 0x7f080074
 int id button_background_shape 0x7f080075
@@ -4242,6 +4243,7 @@ int id shortcut 0x7f080261
 int id showCustom 0x7f080262
 int id showHome 0x7f080263
 int id showTitle 0x7f080264
+int id simpleSwitch 0x7f080307
 int id sin 0x7f080265
 int id single_line_item_id 0x7f080266
 int id size 0x7f080267
@@ -4528,6 +4530,7 @@ int layout activity_frogo_web_view 0x7f0b0022
 int layout activity_license 0x7f0b0023
 int layout activity_license_default 0x7f0b0024
 int layout activity_main 0x7f0b0025
+int layout activity_settings 0x7f0b00ca
 int layout chucker_activity_main 0x7f0b0026
 int layout chucker_activity_throwable 0x7f0b0027
 int layout chucker_activity_transaction 0x7f0b0028

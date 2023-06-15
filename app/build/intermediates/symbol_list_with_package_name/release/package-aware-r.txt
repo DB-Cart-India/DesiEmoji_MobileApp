@@ -3745,6 +3745,7 @@ id btn_do_some_test
 id btn_edit
 id btn_go_to_setting
 id btn_save
+id btn_settings
 id btn_submit
 id buttonPanel
 id button_background_shape
@@ -4243,6 +4244,7 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id simpleSwitch
 id sin
 id single_line_item_id
 id size
@@ -4529,6 +4531,7 @@ layout activity_frogo_web_view
 layout activity_license
 layout activity_license_default
 layout activity_main
+layout activity_settings
 layout chucker_activity_main
 layout chucker_activity_throwable
 layout chucker_activity_transaction
