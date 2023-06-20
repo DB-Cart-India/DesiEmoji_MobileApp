@@ -297,13 +297,29 @@ class KeyboardIME : InputMethodService(), OnKeyboardActionListener {
 
     private fun updateShiftKeyState() {
         if (keyboardMode == KEYBOARD_LETTERS) {
-            val editorInfo = currentInputEditorInfo
-            if (editorInfo != null && editorInfo.inputType != InputType.TYPE_NULL && keyboard?.mShiftState != SHIFT_ON_PERMANENT) {
-                if (currentInputConnection.getCursorCapsMode(editorInfo.inputType) != 0) {
-                    keyboard?.setShifted(SHIFT_ON_ONE_CHAR)
-                    binding?.keyboardMain?.invalidateAllKeys()
+
+            if (binding?.keyboardEmoji?.visibility == View.VISIBLE) {
+                //When Emoji Search
+                val et1 = binding?.keyboardEmoji?.binding?.edSearch
+                val et1Connection = et1?.onCreateInputConnection(EditorInfo())
+                val editorInfo = currentInputEditorInfo
+                    if (editorInfo != null && editorInfo.inputType != InputType.TYPE_NULL && keyboard?.mShiftState != SHIFT_ON_PERMANENT) {
+                    if (et1Connection!!.getCursorCapsMode(editorInfo.inputType) != 0) {
+                        keyboard?.setShifted(SHIFT_ON_ONE_CHAR)
+                        binding?.keyboardMain?.invalidateAllKeys()
+                    }
+            }
+            }
+            else{
+                val editorInfo = currentInputEditorInfo
+                if (editorInfo != null && editorInfo.inputType != InputType.TYPE_NULL && keyboard?.mShiftState != SHIFT_ON_PERMANENT) {
+                    if (currentInputConnection.getCursorCapsMode(editorInfo.inputType) != 0) {
+                        keyboard?.setShifted(SHIFT_ON_ONE_CHAR)
+                        binding?.keyboardMain?.invalidateAllKeys()
+                    }
                 }
             }
+
         }
     }
 
@@ -358,12 +374,26 @@ class KeyboardIME : InputMethodService(), OnKeyboardActionListener {
             keyboardMode = KEYBOARD_LETTERS
             keyboard = ItemMainKeyboard(this, getKeyboardLayoutXML(), enterKeyType)
 
-            val editorInfo = currentInputEditorInfo
-            if (editorInfo != null && editorInfo.inputType != InputType.TYPE_NULL && keyboard?.mShiftState != SHIFT_ON_PERMANENT) {
-                if (currentInputConnection.getCursorCapsMode(editorInfo.inputType) != 0) {
-                    keyboard?.setShifted(SHIFT_ON_ONE_CHAR)
+            if (binding?.keyboardEmoji?.visibility == View.VISIBLE) {
+                //When Emoji Search
+                val et1 = binding?.keyboardEmoji?.binding?.edSearch
+                val et1Connection = et1?.onCreateInputConnection(EditorInfo())
+                val editorInfo = currentInputEditorInfo
+                if (editorInfo != null && editorInfo.inputType != InputType.TYPE_NULL && keyboard?.mShiftState != SHIFT_ON_PERMANENT) {
+                    if (et1Connection!!.getCursorCapsMode(editorInfo.inputType) != 0) {
+                        keyboard?.setShifted(SHIFT_ON_ONE_CHAR)
+//                        binding?.keyboardMain?.invalidateAllKeys()
+                    }
+                }
+            }else{
+                val editorInfo = currentInputEditorInfo
+                if (editorInfo != null && editorInfo.inputType != InputType.TYPE_NULL && keyboard?.mShiftState != SHIFT_ON_PERMANENT) {
+                    if (currentInputConnection.getCursorCapsMode(editorInfo.inputType) != 0) {
+                        keyboard?.setShifted(SHIFT_ON_ONE_CHAR)
+                    }
                 }
             }
+
 
             binding?.keyboardMain?.setKeyboard(keyboard!!)
             switchToLetters = false

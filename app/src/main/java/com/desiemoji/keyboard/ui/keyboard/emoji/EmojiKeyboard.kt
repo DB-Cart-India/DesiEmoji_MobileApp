@@ -34,6 +34,7 @@ import com.desiemoji.keyboard.data.local.emoji.EmojiEntity
 import com.desiemoji.keyboard.data.local.subcategory.SubCategoryEntity
 import com.desiemoji.keyboard.data.remote.emoji.*
 import com.desiemoji.keyboard.databinding.KeyboardEmojiBinding
+import com.desiemoji.keyboard.model.DefaultEmojiSearchModel
 import com.desiemoji.keyboard.ui.keyboard.StickerSender
 import com.desiemoji.keyboard.ui.keyboard.emoji.adapter.*
 import com.desiemoji.keyboard.ui.keyboard.main.ItemMainKeyboard.Companion.KEYCODE_DELETE
@@ -41,6 +42,7 @@ import com.desiemoji.keyboard.ui.keyboard.main.OnKeyboardActionListener
 import com.desiemoji.keyboard.util.Cache
 import com.desiemoji.keyboard.util.Constant
 import com.desiemoji.keyboard.util.Constant.DATE_TIME_FORMAT_SERVER
+import com.desiemoji.keyboard.util.Constant.EMOJI_CUSTOM
 import com.desiemoji.keyboard.util.Constant.PREF_LASTSYNC_TIME
 import com.desiemoji.keyboard.util.Constant.PREF_NAME
 import com.desiemoji.keyboard.util.Toaster
@@ -204,6 +206,7 @@ class EmojiKeyboard(
     private lateinit var emojiAPI: EmojiApi
     private lateinit var myCompositeDisposable: CompositeDisposable
     private lateinit var listDefaultEmoji: MutableList<CustomCategoryModel>
+    private lateinit var listDefaultEmojiSearch: MutableList<DefaultEmojiSearchModel>
     private lateinit var listCategoryTab: MutableList<CustomCategoryModel>
     private  var requestDateTime: String="0"
     private var lastSyncTime: String="0"
@@ -339,6 +342,7 @@ class EmojiKeyboard(
 
     }
 
+    @RequiresApi(Build.VERSION_CODES.M)
     fun composeDefaultEmojiCategory(){
         listDefaultEmoji= mutableListOf<CustomCategoryModel>()
 //        if(sCategoryName!=null) {
@@ -435,6 +439,29 @@ class EmojiKeyboard(
             listDefaultEmoji.add(defFlags)
 //        }
 
+
+        listDefaultEmojiSearch= mutableListOf<DefaultEmojiSearchModel>()
+
+        for(dd in Constant.sCategoryName){
+            if((!dd.equals(Constant.sCategoryName.first()))&&(!dd.equals(Constant.sCategoryName.last()))){
+                var path="media/"+dd+".txt"
+                val fullEmojiList = parseRawEmojiSearchSpecsFile(context, path)
+                Log.i("ensureBackgroundThread","path : "+path+" fullEmojiList len : "+fullEmojiList.size)
+                val systemFontPaint = Paint().apply {
+                    typeface = Typeface.DEFAULT
+                }
+
+
+
+                val emojis = fullEmojiList.filter { emoji ->
+                    systemFontPaint.hasGlyph(emoji.emoji) || (EmojiCompat.get().loadState == EmojiCompat.LOAD_STATE_SUCCEEDED && EmojiCompat.get()
+                        .getEmojiMatch(emoji.emoji, emojiCompatMetadataVersion) == EmojiCompat.EMOJI_SUPPORTED)
+                }
+
+                listDefaultEmojiSearch.addAll(emojis)
+            }
+        }
+
     }
 //----------------------Category API-------------------------------------------
     @RequiresApi(Build.VERSION_CODES.M)
@@ -488,7 +515,7 @@ class EmojiKeyboard(
 
                   }else{
                       isAPILoading=false
-                        Log.i("getAllCategoryFromAPI","else.. response!=null&&!response.error........")
+                      Log.i("getAllCategoryFromAPI","else.. response!=null&&!response.error........")
                     }
     }
 
@@ -929,7 +956,7 @@ class EmojiKeyboard(
                     emojiPaletteSearch.visibility= VISIBLE
                 }
                 else {
-                    emojiPaletteSearch.visibility= GONE
+                    emojiPaletteSearch.visibility= VISIBLE
                 }
             }
 
@@ -1170,7 +1197,12 @@ class EmojiKeyboard(
 
                 override fun onTextChanged(s: CharSequence?, start: Int, before: Int, count: Int) {
                   Log.i("edSearch","edSearch : "+edSearch.text.toString())
-                    setupCustomSearchEmojiAdapter(edSearch.text.toString())
+                    if(selectedEmoji!!.emojiType== EMOJI_CUSTOM){
+                        setupCustomSearchEmojiAdapter(edSearch.text.toString())
+                    }else{
+                        setupDefaultSearchEmojiAdapter(edSearch.text.toString())
+                    }
+
                 }
             })
 
@@ -1191,7 +1223,13 @@ class EmojiKeyboard(
 
     @RequiresApi(Build.VERSION_CODES.M)
     fun openSearchEvent(){
-        setupCustomSearchEmojiAdapter("")
+
+        if(selectedEmoji!!.emojiType==Constant.EMOJI_CUSTOM){
+            setupCustomSearchEmojiAdapter("")
+        }else{
+            setupDefaultSearchEmojiAdapter("")
+        }
+
         binding?.apply {
             llayEmojiPaletteTopSearchBar.visibility=View.VISIBLE
             llayEmojiPaletteTopCategoryBar.visibility=View.GONE
@@ -1211,9 +1249,24 @@ class EmojiKeyboard(
     }
 
     @RequiresApi(Build.VERSION_CODES.M)
+    fun resetAllView(){
+        binding?.apply {
+            edSearch.setText("")
+            llayEmojiPaletteTopSearchBar.visibility=View.GONE
+            llayEmojiPaletteTopCategoryBar.visibility=View.VISIBLE
+            mOnKeyboardActionListener!!.onHideKeyboardOnly()
+            setSelectedEmoji(listCategoryTab[1])
+//            setSelectedEmoji(selectedEmoji!!)
+        }
+
+    }
+
+
+    @RequiresApi(Build.VERSION_CODES.M)
     fun openEmojiPalette() {
         Log.i("EmojiKeyboard","EmojiKeyboard openEmojiPalette.......")
-        Toast.makeText(context,isAPILoading.toString(),Toast.LENGTH_LONG).show()
+//        Toast.makeText(context,isAPILoading.toString(),Toast.LENGTH_LONG).show()
+        resetAllView()
         loadDataFromAPI()
         //Get Category from Database
         if(viewModel!=null){
@@ -1620,6 +1673,32 @@ class EmojiKeyboard(
 
     }
 
+
+    @RequiresApi(Build.VERSION_CODES.M)
+    private fun setupDefaultSearchEmojiAdapter(searchText:String) {
+
+        if(searchText.length>0){
+
+            val listSearchEmojis = mutableListOf<String>()
+            val searchTextLower=searchText.lowercase()
+
+            for( dd in listDefaultEmojiSearch){
+                if(dd.keyword.contains(searchTextLower)){
+                        listSearchEmojis.add(dd.emoji)
+                }
+            }
+
+            setupEmojiAdapter(listSearchEmojis)
+
+        }else{
+            var emojisList = mutableListOf<String>()
+            setupEmojiAdapter(emojisList)
+        }
+
+
+
+    }
+
     private fun ensureBackgroundThread(callback: () -> Unit) {
         if (Looper.myLooper() == Looper.getMainLooper()) {
             Thread {
@@ -1676,6 +1755,80 @@ class EmojiKeyboard(
 //                            Log.i("parseRawEmojiSpecsFile","else else ....")
                             emojiEditorList = mutableListOf(emoji)
                         }
+                    }
+                }
+            }
+//            Log.i("parseRawEmojiSpecsFile","for completed ....")
+            commitEmojiEditorList()
+        }
+
+        return emojis
+    }
+
+
+    fun parseRawEmojiSearchSpecsFile(context: Context, path: String): MutableList<DefaultEmojiSearchModel> {
+
+
+        val emojis = mutableListOf<DefaultEmojiSearchModel>()
+        var emojiEditorList: MutableList<DefaultEmojiSearchModel>? = null
+        var currentEmojiCategory=""
+
+        fun commitEmojiEditorList() {
+//            Log.i("parseRawEmojiSpecsFile","commitEmojiEditorList....")
+            emojiEditorList?.let {
+                // add only the base emoji for now, ignore the variations
+                emojis.add(it.first())
+            }
+            emojiEditorList = null
+        }
+
+
+        context.assets.open(path).bufferedReader().useLines { lines ->
+            for (line in lines) {
+//                Log.i("parseRawEmojiSpecsFile","for (line in lines) ....")
+                if (line.startsWith("#")) {
+                    // Comment line
+//                    Log.i("parseRawEmojiSpecsFile","line.startsWith(\"#\") ....")
+                } else if (line.startsWith("[")) {
+//                    Log.i("parseRawEmojiSpecsFile","line.startsWith(\"[\") ....")
+                    commitEmojiEditorList()
+                } else if (line.trim().isEmpty()) {
+                    // Empty line
+//                    Log.i("parseRawEmojiSpecsFile","line.trim().isEmpty() ....")
+                    continue
+                } else {
+                    if (!line.startsWith("\t")) {
+//                        Log.i("parseRawEmojiSpecsFile","else !line.startsWith(\"\\t\") ....")
+                        commitEmojiEditorList()
+                    }
+
+                    // Assume it is a data line
+                    val data = line.split(";")
+                    if (data.size == 3) {
+                        try {
+                            val emoji = data[0].trim()
+
+                            if (emojiEditorList != null) {
+//                            Log.i("parseRawEmojiSpecsFile","else emojiEditorList != null ....")
+                                if(data[1]!=null&&data[1].isNotEmpty()){
+                                    val emojiKeyword = data[1].trim().lowercase()
+                                    val defData= DefaultEmojiSearchModel(emoji,emojiKeyword)
+                                    emojiEditorList!!.add(defData)
+                                }
+
+                            } else {
+//                            Log.i("parseRawEmojiSpecsFile","else else ....")
+                                if(data[1]!=null&&data[1].isNotEmpty()){
+                                    val emojiKeyword = data[1].trim().lowercase()
+                                    val defData= DefaultEmojiSearchModel(emoji,emojiKeyword)
+                                    emojiEditorList = mutableListOf(defData)
+                                }
+
+                            }
+                        }catch (e:Exception){
+                            e.printStackTrace()
+                        }
+
                     }
                 }
             }
