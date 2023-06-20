@@ -212,11 +212,11 @@ MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\cassrnd\.gradle\caches
 	android:fullBackupContent
 		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:13:9-54
 	android:roundIcon
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:16:9-48
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:16:9-52
 	tools:targetApi
 		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:20:9-35
 	android:icon
-		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:14:9-40
 	android:allowBackup
 		ADDED from G:\Gulam\AndroidWorkSpace\DesiEmojiNew\DesiEmoji\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme

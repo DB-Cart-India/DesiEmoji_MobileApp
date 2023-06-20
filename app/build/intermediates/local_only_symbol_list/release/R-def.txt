@@ -222,6 +222,12 @@ layout keyboard_main_mini
 layout keyboard_multi_form
 layout keyboard_webview
 layout layout_popup_spinner
+mipmap app_icon
+mipmap app_icon_adaptive_back
+mipmap app_icon_adaptive_fore
+mipmap app_icon_circle
+mipmap app_icon_circle_adaptive_back
+mipmap app_icon_circle_adaptive_fore
 mipmap ic_launcher
 mipmap ic_launcher_round
 string abc

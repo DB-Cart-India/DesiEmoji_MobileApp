@@ -4700,6 +4700,12 @@ menu chucker_throwable
 menu chucker_throwables_list
 menu chucker_transaction
 menu chucker_transactions_list
+mipmap app_icon
+mipmap app_icon_adaptive_back
+mipmap app_icon_adaptive_fore
+mipmap app_icon_circle
+mipmap app_icon_circle_adaptive_back
+mipmap app_icon_circle_adaptive_fore
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description

@@ -1,382 +1,510 @@
 [
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/xml_method.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/xml/method.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-anydpi-v26_app_icon_circle.xml.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-anydpi-v26/app_icon_circle.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_bg_border.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/bg_border.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_keyboard_webview.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\keyboard_webview.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_item_keyboard_header.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\item_keyboard_header.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_minikeyboard_bg_selected.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/minikeyboard_bg_selected.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_keyboard_emoji.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\keyboard_emoji.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_news.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_news.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-mdpi_app_icon_circle.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-mdpi/app_icon_circle.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_activity_settings.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/activity_settings.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard_caps_underlined.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard_caps_underlined.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_enter.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_enter.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\xml_keys_letters_qwerty.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\xml\\keys_letters_qwerty.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_close.png.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_close.png"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_keyboard_ime.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\keyboard_ime.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_keyboard_key_selector.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/keyboard_key_selector.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_activity_autotext_detail.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/activity_autotext_detail.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xhdpi_app_icon_adaptive_fore.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xhdpi/app_icon_adaptive_fore.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_minikeyboard_bg.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/minikeyboard_bg.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_keyboard_grid.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\keyboard_grid.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\xml_keys_config.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\xml\\keys_config.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_button_backgorund.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/button_backgorund.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xxhdpi_app_icon_adaptive_back.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xxhdpi/app_icon_adaptive_back.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_edit.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_edit.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_auto_text.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_auto_text.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_item_spinner.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/item_spinner.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_keyboard_key_selector.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\keyboard_key_selector.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_settings_cog.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_settings_cog.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable-hdpi\\ic_search.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/xml_keys_letters_qwerty.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/xml/keys_letters_qwerty.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xxxhdpi/app_icon.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_search.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_search.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard_caps.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard_caps.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_caps.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_caps.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\xml_method.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\xml\\method.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_keyboard_main_header.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\keyboard_main_header.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_keyboard_webview.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/keyboard_webview.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_keyboard_multi_form.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\keyboard_multi_form.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/xml_data_extraction_rules.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_item_keyboard_autotext.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\item_keyboard_autotext.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xhdpi_app_icon.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xhdpi/app_icon.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_item_category_tab_icon.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/item_category_tab_icon.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-hdpi_app_icon.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-hdpi/app_icon.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_auto_text.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_auto_text.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard_clipboard.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard_clipboard.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_item_keyboard_category_recyclerview.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/item_keyboard_category_recyclerview.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\activity_detail.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_caps_outline.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_caps_outline.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_minikeyboard_bg.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\minikeyboard_bg.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_keyboard_grid.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/keyboard_grid.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xxhdpi_app_icon_circle_adaptive_back.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xxhdpi/app_icon_circle_adaptive_back.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_item_keyboard_emoji.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/item_keyboard_emoji.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_arrow_left.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_arrow_left.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard_enter.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard_enter.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_layout_popup_spinner.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/layout_popup_spinner.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_keyboard_emoji.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/keyboard_emoji.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xxhdpi_app_icon_adaptive_fore.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xxhdpi/app_icon_adaptive_fore.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/xml_file_paths.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/xml/file_paths.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_activity_autotext.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\activity_autotext.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_keyboard_bg_space.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/keyboard_bg_space.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_error.png.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_error.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_clear_keyboard.png.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_clear_keyboard.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_keyboard_main_header.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/keyboard_main_header.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\xml_keys_symbols.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\xml\\keys_symbols.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_item_keyboard_main.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/item_keyboard_main.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard_news.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard_news.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/xml_full_backup_content.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/xml/full_backup_content.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard_search.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard_search.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_keyboard_list.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/keyboard_list.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_activity_autotext_editor.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\activity_autotext_editor.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable-hdpi_ic_search.png.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable-hdpi/ic_search.png"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_item_keyboard_main.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\item_keyboard_main.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/xml_keys_config.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/xml/keys_config.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\xml\\file_paths.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ripple_all_corners_medium.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ripple_all_corners_medium.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable-xxxhdpi\\ic_search.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_search.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_search.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xxhdpi_app_icon_circle.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xxhdpi/app_icon_circle.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_error.png.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_error.png"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xxxhdpi_app_icon_circle.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xxxhdpi/app_icon_circle.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/xml_keys_popup_template.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/xml/keys_popup_template.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_keyboard_list.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\keyboard_list.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_keyboard_bg_attribute.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/keyboard_bg_attribute.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard_edit.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard_edit.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable-xxhdpi_ic_search.png.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable-xxhdpi/ic_search.png"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_keyboard_bg_key_pressed.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\keyboard_bg_key_pressed.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_keyboard_form.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/keyboard_form.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard_arrow_right.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard_arrow_right.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/xml_keys_symbols_shift.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/xml/keys_symbols_shift.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xxxhdpi_app_icon_circle_adaptive_back.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xxxhdpi/app_icon_circle_adaptive_back.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_item_autotext.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/item_autotext.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_item_keyboard_custom_emoji.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/item_keyboard_custom_emoji.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\xml_keys_popup_template.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\xml\\keys_popup_template.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_item_keyboard_header.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/item_keyboard_header.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_item_keyboard_custom_emoji.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\item_keyboard_custom_emoji.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_clear_keyboard.png.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_clear_keyboard.png"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard_send.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard_send.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_send.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_send.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_close.png.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_close.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable-mdpi_ic_search.png.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable-mdpi/ic_search.png"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-mdpi_app_icon_adaptive_fore.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-mdpi/app_icon_adaptive_fore.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_clipboard.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_clipboard.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard_emoji_emotions.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard_emoji_emotions.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_fragment_main.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/fragment_main.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xxhdpi_app_icon_circle_adaptive_fore.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xxhdpi/app_icon_circle_adaptive_fore.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_activity_detail.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/activity_detail.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard_settings_cog.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard_settings_cog.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_backspace.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_backspace.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_keyboard_bg_action.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\keyboard_bg_action.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_keyboard_ime.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/keyboard_ime.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-hdpi_app_icon_circle_adaptive_fore.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-hdpi/app_icon_circle_adaptive_fore.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/xml_keys_symbols.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/xml/keys_symbols.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_error_j.jpg.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_error_j.jpg"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard_movie.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard_movie.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_activity_main.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/activity_main.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xhdpi_app_icon_circle_adaptive_back.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xhdpi/app_icon_circle_adaptive_back.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable-xxxhdpi_ic_search.png.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable-xxxhdpi/ic_search.png"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_keyboard_bg_normal.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\keyboard_bg_normal.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable-xhdpi_ic_search.png.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable-xhdpi/ic_search.png"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard_caps_outline.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard_caps_outline.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_keyboard_autotext.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/keyboard_autotext.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard_set_gear.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard_set_gear.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xxxhdpi_app_icon_adaptive_fore.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xxxhdpi/app_icon_adaptive_fore.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_set_gear.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_set_gear.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-mdpi_app_icon_circle_adaptive_fore.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-mdpi/app_icon_circle_adaptive_fore.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_arrow_right.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_arrow_right.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_button_backgorund.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\button_backgorund.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/xml_keys_number.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/xml/keys_number.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_caps_underlined.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_caps_underlined.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\xml_full_backup_content.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\xml\\full_backup_content.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_error_j.jpg.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_error_j.jpg"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable-xhdpi\\ic_search.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/xml_backup_rules.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_keyboard_bg_change.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\keyboard_bg_change.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_keyboard_multi_form.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/keyboard_multi_form.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-hdpi_app_icon_adaptive_back.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-hdpi/app_icon_adaptive_back.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_keyboard_bg_action.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/keyboard_bg_action.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_keyboard_autotext.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\keyboard_autotext.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_activity_autotext_editor.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/activity_autotext_editor.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard_arrow_left.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard_arrow_left.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_keyboard_bg_key_pressed.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/keyboard_bg_key_pressed.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_keyboard_bg_change.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/keyboard_bg_change.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_item_keyboard_multi_form.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/item_keyboard_multi_form.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-mdpi_app_icon.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-mdpi/app_icon.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_movie.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_movie.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\fragment_main.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_delete.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_delete.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-hdpi_app_icon_adaptive_fore.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-hdpi/app_icon_adaptive_fore.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_activity_autotext.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/activity_autotext.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xhdpi_app_icon_circle_adaptive_fore.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xhdpi/app_icon_circle_adaptive_fore.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_item_keyboard_autotext.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/item_keyboard_autotext.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-mdpi_app_icon_circle_adaptive_back.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-mdpi/app_icon_circle_adaptive_back.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_keyboard_main_mini.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/keyboard_main_mini.xml"
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-hdpi_app_icon_circle_adaptive_back.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-hdpi/app_icon_circle_adaptive_back.png"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_ic_keyboard_emoji_emotions.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/ic_keyboard_emoji_emotions.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_item_category_tab_icon.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\item_category_tab_icon.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard_backspace.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard_backspace.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/drawable_keyboard_bg_normal.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/drawable/keyboard_bg_normal.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.desiemoji.keyboard.app-merged_res-84:/layout_item_keyboard_news.xml.flat",
-        "source": "com.desiemoji.keyboard.app-main-86:/layout/item_keyboard_news.xml"
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_keyboard_bg_attribute.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\keyboard_bg_attribute.xml"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_layout_popup_spinner.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\layout_popup_spinner.xml"
+    },
+    {
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xhdpi_app_icon_circle.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xhdpi/app_icon_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_item_spinner.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\xml_keys_number.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\xml\\keys_number.xml"
+    },
+    {
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-hdpi_app_icon_circle.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-hdpi/app_icon_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable-mdpi_ic_search.png.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-mdpi_app_icon_adaptive_back.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-mdpi/app_icon_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_keyboard_bg_space.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\keyboard_bg_space.xml"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_item_keyboard_multi_form.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\item_keyboard_multi_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_item_keyboard_emoji.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\item_keyboard_emoji.xml"
+    },
+    {
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xxxhdpi_app_icon_circle_adaptive_fore.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xxxhdpi/app_icon_circle_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_bg_border.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\bg_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\xml_keys_symbols_shift.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\xml\\keys_symbols_shift.xml"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_item_keyboard_category_recyclerview.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\item_keyboard_category_recyclerview.xml"
+    },
+    {
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xhdpi_app_icon_adaptive_back.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xhdpi/app_icon_adaptive_back.png"
+    },
+    {
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-xxxhdpi_app_icon_adaptive_back.png.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-xxxhdpi/app_icon_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_activity_autotext_detail.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\activity_autotext_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.desiemoji.keyboard.app-merged_res-84:/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "com.desiemoji.keyboard.app-main-86:/mipmap-anydpi-v26/app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_item_autotext.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\item_autotext.xml"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ic_keyboard_delete.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ic_keyboard_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_keyboard_main_mini.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\keyboard_main_mini.xml"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_ripple_all_corners_medium.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\ripple_all_corners_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_keyboard_form.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\keyboard_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\drawable_minikeyboard_bg_selected.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\drawable\\minikeyboard_bg_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-merged_res-84:\\layout_item_keyboard_news.xml.flat",
+        "source": "C:\\Users\\cassrnd\\.gradle\\daemon\\7.5\\com.desiemoji.keyboard.app-main-86:\\layout\\item_keyboard_news.xml"
     }
 ]

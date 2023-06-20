@@ -45,6 +45,7 @@
                     android:layout_alignParentLeft="true"
                     android:layout_toLeftOf="@+id/emoji_search_close"
                     android:background="@null"
+                    android:inputType="text"
                     android:drawableLeft="@drawable/ic_search"
                     />
 
