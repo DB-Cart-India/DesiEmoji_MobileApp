@@ -470,6 +470,9 @@ class EmojiKeyboard(
         GlobalScope.launch {
             val dateTime=lastSyncTime;
             val reqData=CommonRequestData(dateTime)
+//            Handler(Looper.getMainLooper()).post {
+//                Toast.makeText(context, "Last Time:  "+reqData.toString(), Toast.LENGTH_LONG).show()
+//            }
             myCompositeDisposable.add(
                 emojiAPI.getAllCategory(reqData)
                     .observeOn(AndroidSchedulers.mainThread())
@@ -858,6 +861,7 @@ class EmojiKeyboard(
     private fun downloadImage(string: String): Bitmap? {
         val url: URL = mStringToURL(string)!!
         val connection: HttpURLConnection?
+        Log.i("downloadImage","downloadImage : "+string)
         try {
             connection = url.openConnection() as HttpURLConnection
             connection.connect()
@@ -866,7 +870,11 @@ class EmojiKeyboard(
             return BitmapFactory.decodeStream(bufferedInputStream)
         } catch (e: IOException) {
             e.printStackTrace()
-            Toast.makeText(context, "Error", Toast.LENGTH_LONG).show()
+            Log.i("downloadImage","downloadImage Error : "+string)
+            Handler(Looper.getMainLooper()).post {
+                Toast.makeText(context, "Error "+string, Toast.LENGTH_LONG).show()
+            }
+
         }
         return null
     }
@@ -883,7 +891,10 @@ class EmojiKeyboard(
             return inputStream
         } catch (e: IOException) {
             e.printStackTrace()
-            Toast.makeText(context, "Error", Toast.LENGTH_LONG).show()
+            Log.i("downloadImage","downloadImage Error : "+string)
+            Handler(Looper.getMainLooper()).post {
+                Toast.makeText(context, "Error "+string, Toast.LENGTH_LONG).show()
+            }
         }
         return null
     }
@@ -1534,7 +1545,7 @@ class EmojiKeyboard(
                         if(count==listSubCategory.size){
                             for(sss in listSubCategory){
                                 var emojisList=hsmapSubCategory.get(sss.subCategoryId.toString())
-                                if(emojisList!!.isNotEmpty()){
+                                if(emojisList!=null&&emojisList!!.isNotEmpty()){
                                     binding?.apply {
                                         val layoutId = R.layout.item_keyboard_category_recyclerview
                                         val view = layoutInflater.inflate(layoutId, null, false)

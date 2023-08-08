@@ -298,7 +298,7 @@ class KeyboardIME : InputMethodService(), OnKeyboardActionListener {
     private fun updateShiftKeyState() {
         if (keyboardMode == KEYBOARD_LETTERS) {
 
-            if (binding?.keyboardEmoji?.visibility == View.VISIBLE) {
+            if (binding?.keyboardEmoji?.binding?.llayEmojiPaletteTopSearchBar?.visibility == View.VISIBLE) {
                 //When Emoji Search
                 val et1 = binding?.keyboardEmoji?.binding?.edSearch
                 val et1Connection = et1?.onCreateInputConnection(EditorInfo())
@@ -374,7 +374,7 @@ class KeyboardIME : InputMethodService(), OnKeyboardActionListener {
             keyboardMode = KEYBOARD_LETTERS
             keyboard = ItemMainKeyboard(this, getKeyboardLayoutXML(), enterKeyType)
 
-            if (binding?.keyboardEmoji?.visibility == View.VISIBLE) {
+            if (binding?.keyboardEmoji?.binding?.llayEmojiPaletteTopSearchBar?.visibility  == View.VISIBLE) {
                 //When Emoji Search
                 val et1 = binding?.keyboardEmoji?.binding?.edSearch
                 val et1Connection = et1?.onCreateInputConnection(EditorInfo())
